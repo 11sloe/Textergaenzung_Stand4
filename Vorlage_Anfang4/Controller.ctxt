@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Controller
+comment1.params=event
+comment1.target=void\ eingabeGeaendert(javafx.scene.input.KeyEvent)
+comment2.params=event
+comment2.target=void\ vorschlag1Geklickt(javafx.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ vorschlag2Geklickt(javafx.event.ActionEvent)
+comment4.params=event
+comment4.target=void\ vorschlag3Geklickt(javafx.event.ActionEvent)
+comment5.params=
+comment5.target=void\ initialize()
+numComments=6
